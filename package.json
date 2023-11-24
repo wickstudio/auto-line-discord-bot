@@ -1,0 +1,15 @@
+{
+    "name": "auto-line-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot that sends autolines.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Wick",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^12.5.3",
+      "fs": "0.0.1-security"
+    }
+}
